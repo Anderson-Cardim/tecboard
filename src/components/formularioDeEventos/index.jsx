@@ -1,5 +1,5 @@
 import Botao from '../botao'
-import '../formularioDeEventos/Formulario-de-eventos.estilos.css'
+import '../formularioDeEventos/formulario-de-eventos.estilos.css'
 import Input from '../input'
 import Label from '../label'
 import ListaSuspensa from '../listaSuspensa/index'
