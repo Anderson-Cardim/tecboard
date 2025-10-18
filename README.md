@@ -1,5 +1,3 @@
-![Capa do projeto](capa.png)
-
 # Tecboard
 
 Seu hub de eventos de tecnologia! Este projeto foi construído com React e tem como objetivo facilitar a criação e visualização de eventos voltados para temas como Front-end, Back-end, Cloud e muito mais.
@@ -62,17 +60,9 @@ https://raw.githubusercontent.com/viniciosneves/tecboard-assets/refs/heads/main/
 
 ## 📚 Sobre o projeto
 
-Esse projeto foi desenvolvido com fins educacionais para praticar:
-
 - Componentização no React.
 - JSX.
 - Manipulação de formulários e dados.
 - Estilização com CSS.
 - Uso de props e renderização condicional.
-
-Ideal para quem quer dar os primeiros passos em React criando algo visual, interativo e útil.
-
-Se quiser adicionar deploy com Vercel, persistência com LocalStorage ou backend com Firebase, este projeto é uma ótima base para evoluir!
-
-Vida longa e próspera 🖖
 
